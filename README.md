@@ -63,3 +63,8 @@ Here’s a screenshot showing the To-Do List Manager in action:
 
 ![To-Do CLI Demo](todo_demo.png)
 
+## 🎬 Demo Video
+
+Here’s a full walkthrough of the To-Do List Manager in action.
+
+▶️ [Watch Demo on Google Drive](https://drive.google.com/file/d/1DrIbRYPBAsPEl8zZxzwLLjk_wn0HKvWq/view)
