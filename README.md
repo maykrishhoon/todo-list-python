@@ -57,4 +57,9 @@ python todo.py
 5. Edit Task
 6. Exit
 ```
+## 🖼️ Demo Screenshot
+
+Here’s a screenshot showing the To-Do List Manager in action:
+
+![To-Do CLI Demo](todo_demo.png)
 
